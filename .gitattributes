@@ -1,0 +1,37 @@
+# Normalize line endings across all platforms
+* text=auto eol=lf
+
+# Mark all source and content files as text
+*.astro  text
+*.js     text
+*.ts     text
+*.json   text
+*.md     text
+*.yml    text
+*.yaml   text
+*.css    text
+*.scss   text
+*.html   text
+*.toml   text
+*.lock   text
+*.env    text
+
+# Binary formats — prevent Git from trying to diff/modify them
+*.woff   binary
+*.woff2  binary
+*.ttf    binary
+*.otf    binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.webp   binary
+
+# SVGs are technically text, but we mark them for clarity
+*.svg    text
+
+# Improve GitHub language stats — tell Linguist what's docs
+/src/content/docs/** linguist-documentation
+
+# Optional: make pnpm-lock merges cleaner
+pnpm-lock.yaml merge=union
