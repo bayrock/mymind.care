@@ -25,7 +25,7 @@ export default defineConfig({
 				alt: 'mymind.care'
 			},
 			editLink: {
-				baseUrl: 'https://github.com/bayrock/mymind.care/edit/main/docs/',
+				baseUrl: 'https://github.com/bayrock/mymind.care/edit/main/',
 			},
 			social: [
 				// { icon: 'discord', label: 'Discord', href: 'https://#' },
