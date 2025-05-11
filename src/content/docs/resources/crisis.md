@@ -10,8 +10,8 @@ If you're suffering from a crisis, help is available **right now.**
 :::
 
 ## 🌍 International
-- [FindAHelpline](https://findahelpline.com/): Free, confidential support worldwide. Online chat, text or phone.
-- [Befrienders Worldwide](https://www.befrienders.org/): Free, confidential support for people in distress, worldwide.
+- [FindAHelpline](https://findahelpline.com): Free, confidential support worldwide. Online chat, text or phone.
+- [Befrienders Worldwide](https://www.befrienders.org): Free, confidential support for people in distress, worldwide.
 - [IMAlive](https://www.imalive.org): Online chat-based crisis support.
 
 ## 🇺🇸 United States

@@ -12,6 +12,7 @@ export default defineConfig({
 	image: {
 		service: passthroughImageService()
   	},
+	trailingSlash: 'never',
 	integrations: [
 		starlight({
 			title: 'mymind.care',
@@ -28,7 +29,7 @@ export default defineConfig({
 				baseUrl: 'https://github.com/bayrock/mymind.care/edit/main/'
 			},
 			social: [
-				// { icon: 'discord', label: 'Discord', href: 'https://#' },
+				{ icon: 'discord', label: 'Discord', href: 'https://discord.mymind.care' },
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/bayrock/mymind.care' }
 			],
 			sidebar: [
@@ -45,7 +46,7 @@ export default defineConfig({
 			],
 			plugins: [
 				catppuccin({
-					dark: { flavor: "macchiato", accent: "lavender" },
+					dark: { flavor: 'macchiato', accent: 'lavender' },
 					light: { flavor: "latte", accent: "lavender" }
 				})
 			]

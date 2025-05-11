@@ -10,17 +10,17 @@ If you are an LGBTQ+ or minority individual you deserve proper care.
 
 ## Lifelines
 - [Trans Lifeline](https://translifeline.org): Trans peer support
-- [Trevor Project](https://www.thetrevorproject.org/): Suicide prevention for LGBTQ+
+- [Trevor Project](https://www.thetrevorproject.org): Suicide prevention for LGBTQ+
 - [It Gets Better Project](https://itgetsbetter.org): Storytelling organization for LGBTQ+ youth
 - [Q Chat Space](https://qchatspace.org): Live chat for LGBTQ+ youth
 - [Switchboard (UK)](https://switchboard.lgbt): `0300 330 0630`
 
 ## Hormones
-- [Point of Pride](https://www.pointofpride.org/): Financial aid and direct support to trans folks
-- [Plume](https://getplume.co/): Virtual gender-affirming care clinic
+- [Point of Pride](https://www.pointofpride.org): Financial aid and direct support to trans folks
+- [Plume](https://getplume.co): Virtual gender-affirming care clinic
 - [FOLX](https://www.folxhealth.com/gender-affirming-care): Comprehensive LGBTQIA+ care including gender-affirming HRT
 - [Thrivelab](https://www.thrivelab.com/use-your-health-insurance-benefits): Insurance based hormone balancing
-- [DIY HRT Directory](https://diyhrt.wiki/): Do it yourself hormone replacement
+- [DIY HRT Directory](https://diyhrt.wiki): Do it yourself hormone replacement
 ---
 
 :::caution[Warning]
