@@ -1,5 +1,5 @@
 ---
-title: Support mymind.care
+title: Support Us
 tableOfContents: false
 editUrl: false
 ---

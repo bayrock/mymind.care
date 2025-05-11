@@ -15,7 +15,7 @@ There are coping mechanisms and self care worth integrating in your life.
 - [Insight Timer](https://insighttimer.com): Meditation timers
 - [Calm Harm](https://calmharm.co.uk): Reduce urges to self-harm
 
-## AI Chat Bots
+### Chat Bots
 - [Woebot](https://woebothealth.com)
 - [Wysa](https://www.wysa.com/)
 

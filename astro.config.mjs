@@ -10,7 +10,7 @@ export default defineConfig({
 	adapter: vercel(),
 	devToolbar: { enabled: false },
 	image: {
-		service: passthroughImageService(),
+		service: passthroughImageService()
   	},
 	integrations: [
 		starlight({
@@ -25,7 +25,7 @@ export default defineConfig({
 				alt: 'mymind.care'
 			},
 			editLink: {
-				baseUrl: 'https://github.com/bayrock/mymind.care/edit/main/',
+				baseUrl: 'https://github.com/bayrock/mymind.care/edit/main/'
 			},
 			social: [
 				// { icon: 'discord', label: 'Discord', href: 'https://#' },
@@ -35,13 +35,13 @@ export default defineConfig({
 				{
 					label: 'Community',
 					items: [
-						{ label: 'About Us', slug: 'about' },
+						{ label: 'About Us', slug: 'about' }
 					],
 				},
 				{
 					label: 'Resources',
-					autogenerate: { directory: 'resources' },
-				},
+					autogenerate: { directory: 'resources' }
+				}
 			],
 			plugins: [
 				catppuccin({
@@ -50,5 +50,5 @@ export default defineConfig({
 				})
 			]
 		}),
-	],
+	]
 });

@@ -15,19 +15,19 @@ We are an [open source](/licensing) collaborative of mental health resources and
 - Empowering community contributions
 - Freedom of health and autonomy for all
 
-## What's the mission?
+## Our mission?
 
 This project aims to make mental health care more available for *everyone* —
 
 Explore categories including but not limited to:
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 <CardGrid>
   <Card title="Crisis Resources" icon="open-book">
     International crisis helplines
   </Card>
-  <Card title="Therapy Access" icon="information">
+  <Card title="Therapy Access" icon="magnifier">
     Get connected with a therapist
   </Card>
   <Card title="LGBTQ+ Support" icon="heart">
@@ -37,6 +37,12 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
     Super charge your self care
   </Card>
 </CardGrid>
+
+## Have a question?
+<LinkCard
+  title="Reach out to us"
+  href="/questions"
+/>
 ---
 
 :::danger[Disclaimer]
