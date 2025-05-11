@@ -1,11 +1,12 @@
 ---
 title: Crisis Resources
+description: If you're suffering from a crisis, help is available.
 sidebar:
   order: 1
 ---
 
 :::note[Help is available]
-If you're in a mental health crisis, help is available **right now.**
+If you're suffering from a crisis, help is available **right now.**
 :::
 
 ## 🌍 International

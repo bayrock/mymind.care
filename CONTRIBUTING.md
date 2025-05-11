@@ -1,6 +1,6 @@
 # Contributing - [mymind.care](https://mymind.care)
 
-Thank you for considering a contribution to **mymind.care** — your support helps us grow a compassionate and accessible mental health collaborative.
+Thank you for considering a contribution to **mymind.care** — your support helps us grow a compassionate and accessible mental health collective.
 
 We welcome contributions of all kinds: documentation, corrections, resources, accessibility, suggestions, or code improvements.
 

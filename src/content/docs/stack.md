@@ -2,6 +2,7 @@
 title: Software Stack
 tableOfContents: false
 editUrl: false
+pagefind: false
 ---
 - [Astro](https://astro.build/): Meta-framework
 - [Starlight](https://starlight.astro.build/): Stellar docs

@@ -4,7 +4,7 @@ sidebar:
   order: 2
 ---
 :::note[Start healing today]
-Seeking therapy is a courageous step. These tools can help you find support.
+Seeking therapy is a courageous step. These tools can help you get connected.
 :::
 
 ## Locators

@@ -10,6 +10,7 @@ There are coping mechanisms and self care worth integrating in your life.
 
 ## Education
 - [Suicide Prevention Resource Center](https://sprc.org/online-courses/): Online Courses
+- [National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health): Caring for your mental health
  
 ## Apps
 - [Insight Timer](https://insighttimer.com): Meditation timers

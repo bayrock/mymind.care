@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-   Open source collaborative of mental health resources and peer support.
+   Open source collective of mental health resources and peer support.
 </p>
 
 <p align="center">

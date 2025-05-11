@@ -17,8 +17,8 @@ If you are an LGBTQ+ or minority individual you deserve proper care.
 
 ## Hormones
 - [Point of Pride](https://www.pointofpride.org/): Financial aid and direct support to trans folks
-- [FOLX](https://www.folxhealth.com/gender-affirming-care): Comprehensive LGBTQIA+ care including gender-affirming HRT
 - [Plume](https://getplume.co/): Virtual gender-affirming care clinic
+- [FOLX](https://www.folxhealth.com/gender-affirming-care): Comprehensive LGBTQIA+ care including gender-affirming HRT
 - [Thrivelab](https://www.thrivelab.com/use-your-health-insurance-benefits): Insurance based hormone balancing
 - [DIY HRT Directory](https://diyhrt.wiki/): Do it yourself hormone replacement
 ---
