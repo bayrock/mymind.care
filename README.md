@@ -27,7 +27,7 @@ See [CONTRIBUTING.md](https://github.com/bayrock/mymind.care/blob/main/CONTRIBUT
 pnpm install
 pnpm dev
 ```
-This project owes credit to it's [technology stack](https://mymind.care/stack).
+This project owes credit to it's [software stack](https://mymind.care/stack).
 ### Translators
 If you are a competent translator we need your help with [internationalization](https://starlight.astro.build/guides/i18n/).
 
