@@ -2,7 +2,7 @@
 import { defineConfig, passthroughImageService } from 'astro/config';
 import vercel from '@astrojs/vercel';
 import starlight from '@astrojs/starlight';
-import catppuccin from "@catppuccin/starlight";
+import catppuccin from '@catppuccin/starlight';
 
 // https://astro.build/config
 export default defineConfig({
@@ -47,7 +47,7 @@ export default defineConfig({
 			plugins: [
 				catppuccin({
 					dark: { flavor: 'macchiato', accent: 'lavender' },
-					light: { flavor: "latte", accent: "lavender" }
+					light: { flavor: 'latte', accent: 'lavender' }
 				})
 			]
 		}),
