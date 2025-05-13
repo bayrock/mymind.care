@@ -1,10 +1,11 @@
 ---
 import { Aside, LinkCard } from '@astrojs/starlight/components';
+const { warning } = Astro.props;
 ---
 
 <div id="content-gate">
     <Aside type="caution" title="Warning">
-        This section contains sensitive material pertaining to assisted death.
+        <i>{warning}</i>
     </Aside>
     <LinkCard id="acknowledge-btn" title="I understand, continue." />
 </div>
