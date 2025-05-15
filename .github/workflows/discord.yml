@@ -17,13 +17,12 @@ jobs:
           echo '${{ toJson(github.event.commits) }}' > commits.json
 
           # Build a single message with all commits
-          MESSAGE="📢 **${{ github.event.pusher.name }}** pushed to \`main\`:\n"
+          MESSAGE="📢 **${{ github.event.pusher.name }}** pushed to \`main\`:"$'\n'
 
-          jq -r '.[] | "* \(.message | split("\n")[0]) by **\(.author.name)**\n<\(.url)>"' commits.json >> commit_lines.txt
+          jq -r '.[] | "\(.message | split("\n")[0]) by **\(.author.name)**", .url' commits.json >> commit_lines.txt
 
-          # Append each commit summary line to the message
           while IFS= read -r line; do
-            MESSAGE+="$line\n"
+            MESSAGE+="$line"$'\n'
           done < commit_lines.txt
 
           # Send to Discord
